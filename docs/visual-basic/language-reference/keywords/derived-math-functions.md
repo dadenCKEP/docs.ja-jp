@@ -38,7 +38,7 @@ ms.locfileid: "84373890"
 |Cotangent (Ctan(x))|1 / Tan(x)|  
 |Inverse sine (Asin(x))|Atan(x / Sqrt(-x * x + 1))|  
 |Inverse cosine (Acos(x))|Atan(-x / Sqrt(-x * x + 1)) + 2 \* Atan(1)|  
-|Inverse secant (Asec(x))|2 * Atan(1) - Atan(Sign(x) / Sqrt(x \* x – 1))|  
+|Inverse secant (Asec(x))|2 * Atan(1) - Atan(Sign(x) / Sqrt(x \* x - 1))|  
 |Inverse cosecant (Acsc(x))|Atan(Sign(x) / Sqrt(x * x - 1))|  
 |Inverse cotangent (Acot(x))|2 * Atan(1) - Atan(x)|  
 |Hyperbolic sine (Sinh(x))|(Exp(x) - Exp(-x)) / 2|  
